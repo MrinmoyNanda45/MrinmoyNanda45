@@ -1,12 +1,13 @@
 # 👋 Hey, I'm Mrinmoy Nanda  
 
-🚀 **Aspiring Data Scientist | Machine Learning & NLP Enthusiast | Data Analysis**
+😎 **Aspiring Data Scientist | Machine Learning & NLP Enthusiast | Data Analysis**
 
 ### 🔥 What I Do
 - 🧠 Build **Machine Learning & NLP applications**
 - 📊 Transform data into dashboards & insights using **Power BI**
-- 🚀 Deploy real-time prediction apps using **Streamlit**
 - ⚙️ Optimize models through **feature engineering & hyperparameter tuning**
+- 🚀 Deploy real-time prediction apps using **Streamlit**
+
 
 ---
 # 💻 Tech Stack
